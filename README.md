@@ -1,6 +1,6 @@
 # Cloud-Formation-Autoscaling
 This template provides cloud formation template which is written for autoscaling in aws.
-Template includes following:
+## Template includes following:
 -ASG policy
 -ASG(Auto Scaling Group)
 -Listener
